@@ -38,7 +38,7 @@
     "got": "^7.1.0",
     "inquirer": "^3.3.0",
     "meow": "^3.7.0",
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.6.1",
     "mongose": "0.0.2-security",
     "ora": "^1.3.0",
     "selenium-standalone": "^6.11.0",
